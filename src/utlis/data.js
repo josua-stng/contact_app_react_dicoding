@@ -8,8 +8,8 @@ const getData = () => {
         },
         {
             id: 2,
-            name: 'Arif Faizin',
-            tag: 'arifaizin',
+            name: 'Josua Sitanggang',
+            tag: 'Josuastng',
             imageUrl: 'https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/arifaizin.jpeg?alt=media&token=79885b8f-8b29-45bc-acb4-3fdc2534891a',
         },
         {
